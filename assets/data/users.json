@@ -1,0 +1,33 @@
+[{
+	"_id": "61db9cb0ab8495d04759964a",
+	"profile": {
+		"firstName": "Jerry",
+		"lastName": "Le",
+		"gender": "male",
+		"email": "jerry.vn@gmail.com"
+	},
+	"password": "$2b$10$yNlC7p7dDaB1FtSQSwZPuOhBmc6POuPYNLiHZ0b9kllfUUs8eU.pW",
+	"phone": "0123456789"
+},
+{
+	"_id": "61da6091c36fa077b584a31e",
+    "profile": {
+      "fullName": "Lamia Store",
+      "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+      "email": "mubaha.fashion@gmail.com"
+    },
+    "phone": "0911111111",
+    "role": "vendor",
+    "password": "123456",
+    "vendor": {
+      "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+      "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+      "facebook": "https://www.facebook.com/mia.la.1257",
+      "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+      "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+      "instagram": "https://www.instagram.com/accounts/login/"
+    }
+  }
+
+]
+

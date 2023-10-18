@@ -1,0 +1,94 @@
+{
+	"status": 200,
+	"data": [
+		{
+			"_id": "61db9c35be203578eaea0dbf",
+			"name": "Sale",
+			"description": "upto 50% all items",
+			"media": {
+				"featuredImage": "assets/images/category/category8.png"
+			}
+		},
+		{
+			"_id": "61db9c35be203578eaea0dc0",
+			"parent": "61db9c35be203578eaea0dbf",
+			"name": "Women",
+			"description": "t-shirt, shirt, pants...",
+			"media": {
+				"featuredImage": "assets/images/category/category9.png"
+			}
+		},
+		{
+			"_id": "61db9c35be203578eaea0ea9",
+			"parent": "61db9c35be203578eaea0dc0",
+			"name": "Men",
+			"description": "jacket, jean..",
+			"media": {
+				"featuredImage": "assets/images/category/category10.png"
+			}
+		},
+		{
+			"_id": "61db9c35be203578eaea0eaa",
+			"parent": "61db9c35be203578eaea0dc0",
+			"name": "Kid",
+			"description": "clothes, toys, books...",
+			"media": {
+				"featuredImage": "assets/images/category/category4.png"
+			}
+		},
+		{
+			"_id": "61db9c35be203578eaea0dc1",
+			"parent": "61db9c35be203578eaea0dbf",
+			"name": "Cosmetic",
+			"description": "Skin care, hair care...",
+			"media": {
+				"featuredImage": "assets/images/category/category5.png"
+			}
+		},
+		{
+			"_id": "61db9c35be203578eaea0eac",
+			"parent": "61db9c35be203578eaea0dc1",
+			"name": "Footwear",
+			"description": "sport shoes, sandles...",
+			"media": {
+				"featuredImage": "assets/images/category/category6.png"
+			}
+		},
+		{
+			"_id": "61db9c35be203578eaea0ead",
+			"parent": "61db9c35be203578eaea0dc1",
+			"name": "Jewels",
+			"description": "necklaces, necklaces, earrings...",
+			"media": {
+				"featuredImage": "assets/images/category/category7.png"
+			}
+		},
+		{
+			"_id": "61db9c35be203578eaea0eae",
+			"parent": "61db9c35be203578eaea0dc1",
+			"name": "Appliances",
+			"description": "Microwave, oven mitts...",
+			"media": {
+				"featuredImage": "assets/images/category/category8.png"
+			}
+		},
+		{
+			"_id": "61db9c35be203578eaea0eaf",
+			"parent": "61db9c35be203578eaea0dc1",
+			"name": "Food",
+			"description": "Sausage, chicken, beef..",
+			"media": {
+				"featuredImage": "assets/images/category/category9.png"
+			}
+		},
+		{
+			"_id": "61db9c35be203578eaea0eb0",
+			"parent": "61db9c35be203578eaea0dc1",
+			"name": "Electronic",
+			"description": "TV, refrigerator, gas stove",
+			"media": {
+				"featuredImage": "assets/images/category/category10.png"
+			}
+		}
+	]
+}

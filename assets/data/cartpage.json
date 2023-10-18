@@ -1,0 +1,500 @@
+{
+    "status": 200,
+    "data": {
+        "carts": [
+            {
+                "_id": "61db9c35be203578eaea0db2",
+                "note": "",
+                "carts": {
+                    "vendor": {
+                        "_id": "61da6091c36fa077b584a31e",
+                        "profile": {
+                            "fullName": "Lamia Store",
+                            "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                            "gender": "male",
+                            "email": "mubaha.fashion@gmail.com"
+                        },
+                        "username": "Lamia",
+                        "phone": "0911111111",
+                        "role": "vendor",
+                        "password": "123456",
+                        "vendor": {
+                            "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                            "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                            "facebook": "https://www.facebook.com/mia.la.1257",
+                            "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                            "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                            "instagram": "https://www.instagram.com/accounts/login/"
+                        }
+                    },
+                    "product":[
+                        {
+                            "_id": "61db9c35be203578eaea13e5",
+                            "media": {
+                                "featuredImage": "https://salt.tikicdn.com/cache/400x400/ts/product/8a/bf/25/7dc09cae0b02083ec02870a1ff2aca3e.png.webp",
+                                "data": []
+                            },
+                            "category": {
+                                "_id": "61db9c35be203578eaea0dbf",
+                                "name": "Thực phẩm"
+                            },
+                            "brand": {
+                                "name": "Dio"
+                            },
+                            "vendor": {
+                                "_id": "61da6091c36fa077b584a31e",
+                                "profile": {
+                                    "fullName": "Lamia Store",
+                                    "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                                    "gender": "male",
+                                    "email": "mubaha.fashion@gmail.com"
+                                },
+                                "username": "Lamia",
+                                "phone": "0911111111",
+                                "role": "vendor",
+                                "password": "123456",
+                                "vendor": {
+                                    "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                                    "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                                    "facebook": "https://www.facebook.com/mia.la.1257",
+                                    "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                                    "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                                    "instagram": "https://www.instagram.com/accounts/login/"
+                                }
+                            },
+                            "stock": {
+                                "quantity": 1,
+                                "status": "available",
+                                "country": "VN"
+                            },
+                            "discount": 0.2,
+                            "price": "100000",
+                            "currencySymbol": "₫",
+                            "description": "Sports",
+                            "shortDescription": "Kids",
+                            "sku": "YS_GMeqcqi",
+                            "name": "Rustic Steel Pants",
+                            "slug": "Rustic-Steel-Pants-quV3o6"
+                        },
+                        {
+                            "_id": "61db9c35be203578eaea13e6",
+                            "media": {
+                                "featuredImage": "https://salt.tikicdn.com/cache/400x400/ts/product/a5/31/4b/a6b50b155bff50437c6fe03ee9036b5f.jpg.webp",
+                                "data": []
+                            },
+                            "category": {
+                                "_id": "61db9c35be203578eaea0dbf",
+                                "name": "Thực phẩm"
+                            },
+                            "brand": {
+                                "name": "Dio"
+                            },
+                            "vendor": {
+                                "_id": "61da6091c36fa077b584a31e",
+                                "profile": {
+                                    "fullName": "Lamia Store",
+                                    "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                                    "gender": "male",
+                                    "email": "mubaha.fashion@gmail.com"
+                                },
+                                "username": "Lamia",
+                                "phone": "0911111111",
+                                "role": "vendor",
+                                "password": "123456",
+                                "vendor": {
+                                    "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                                    "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                                    "facebook": "https://www.facebook.com/mia.la.1257",
+                                    "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                                    "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                                    "instagram": "https://www.instagram.com/accounts/login/"
+                                }
+                            },
+                            "stock": {
+                                "quantity": 1,
+                                "status": "available",
+                                "country": "VN"
+                            },
+                            "discount": 0,
+                            "price": "100000",
+                            "currencySymbol": "₫",
+                            "description": "Tools",
+                            "shortDescription": "Automotive",
+                            "sku": "0pVCGhJ5vD",
+                            "name": "Ergonomic Granite Shoes",
+                            "slug": "Ergonomic-Granite-Shoes-fqHvSm"
+                        }
+                    ]
+                }
+            },
+            {
+                "_id": "61db9c35be203578eaea0db3",
+                "note": "",
+                "carts": {
+                    "vendor": {
+                        "_id": "61db9cb0ab8495d04759964a",
+                        "profile": {
+                            "fullName": "H2t Store",
+                            "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                            "gender": "male",
+                            "email": "mubaha.fashion@gmail.com"
+                        },
+                        "username": "H2T Store",
+                        "phone": "0911111112",
+                        "role": "vendor",
+                        "password": "123456",
+                        "vendor": {
+                            "cover": "https://file.hstatic.net/200000201725/file/logo300x70_edf9c9c72acb48f791fe052257311c5c.png",
+                            "description": "Đội ngũ H2T luôn coi trọng lợi ích của khách hàng lên hàng đầu, chỉn chu từng bước để mang tới những sản phẩm hoàn hảo nhất từ “đầu tới cuối”.",
+                            "facebook": "https://www.facebook.com/mia.la.1257",
+                            "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                            "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                            "instagram": "https://www.instagram.com/accounts/login/"
+                        }
+                    },
+                    "product":[
+                        {
+                            "_id": "61db9c35be203578eaea13e7",
+                            "media": {
+                                "featuredImage": "https://salt.tikicdn.com/cache/400x400/ts/product/32/6b/3a/36d4b9218ca351860cc2ccc830f4ffed.jpg.webp",
+                                "data": []
+                            },
+                            "category": {
+                                "_id": "61db9c35be203578eaea0dbf",
+                                "name": "Thực phẩm"
+                            },
+                            "brand": {
+                                "name": "Dio"
+                            },
+                            "vendor": {
+                                "_id": "61da6091c36fa077b584a31e",
+                                "profile": {
+                                    "fullName": "Lamia Store",
+                                    "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                                    "gender": "male",
+                                    "email": "mubaha.fashion@gmail.com"
+                                },
+                                "username": "Lamia",
+                                "phone": "0911111111",
+                                "role": "vendor",
+                                "password": "123456",
+                                "vendor": {
+                                    "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                                    "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                                    "facebook": "https://www.facebook.com/mia.la.1257",
+                                    "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                                    "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                                    "instagram": "https://www.instagram.com/accounts/login/"
+                                }
+                            },
+                            "stock": {
+                                "quantity": 1,
+                                "status": "available",
+                                "country": "VN"
+                            },
+                            "discount": 0,
+                            "price": "100000",
+                            "currencySymbol": "₫",
+                            "description": "Automotive",
+                            "shortDescription": "Sports",
+                            "sku": "Pmr44f7ebG",
+                            "name": "Practical Concrete Table",
+                            "slug": "Practical-Concrete-Table-O8TV78"
+                        },
+                        {
+                            "_id": "61db9c35be203578eaea13e8",
+                            "media": {
+                                "featuredImage": "https://salt.tikicdn.com/cache/400x400/ts/product/6c/37/92/dbf0041e5c8333babad2f0a431a42004.png.webp",
+                                "data": []
+                            },
+                            "category": {
+                                "_id": "61db9c35be203578eaea0dbf",
+                                "name": "Thực phẩm"
+                            },
+                            "brand": {
+                                "name": "Dio"
+                            },
+                            "vendor": {
+                                "_id": "61da6091c36fa077b584a31e",
+                                "profile": {
+                                    "fullName": "Lamia Store",
+                                    "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                                    "gender": "male",
+                                    "email": "mubaha.fashion@gmail.com"
+                                },
+                                "username": "Lamia",
+                                "phone": "0911111111",
+                                "role": "vendor",
+                                "password": "123456",
+                                "vendor": {
+                                    "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                                    "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                                    "facebook": "https://www.facebook.com/mia.la.1257",
+                                    "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                                    "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                                    "instagram": "https://www.instagram.com/accounts/login/"
+                                }
+                            },
+                            "stock": {
+                                "quantity": 1,
+                                "status": "available",
+                                "country": "VN"
+                            },
+                            "discount": 0,
+                            "price": "100000",
+                            "currencySymbol": "₫",
+                            "description": "Garden",
+                            "shortDescription": "Toys",
+                            "sku": "FGbVDnrpMq",
+                            "name": "Incredible Soft Ball",
+                            "slug": "Incredible-Soft-Ball-pzkosG"
+                        }
+                   
+                    ]
+                }
+            }
+        ],
+        "similarProduct": [
+            {
+                "_id": "61db9c35be203578eaea13e0",
+                "media": {
+                    "featuredImage": "https://salt.tikicdn.com/cache/400x400/ts/product/36/a2/d7/52f290c2506abdc9033d121aa3cfc2e4.jpg.webp",
+                    "data": []
+                },
+                "category": {
+                    "_id": "61db9c35be203578eaea0dbf",
+                    "name": "Thực phẩm"
+                },
+                "brand": {
+                    "name": "Dio"
+                },
+                "vendor": {
+                    "_id": "61da6091c36fa077b584a31e",
+                    "profile": {
+                        "fullName": "Lamia Store",
+                        "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                        "gender": "male",
+                        "email": "mubaha.fashion@gmail.com"
+                    },
+                    "username": "Lamia",
+                    "phone": "0911111111",
+                    "role": "vendor",
+                    "password": "123456",
+                    "vendor": {
+                        "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                        "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                        "facebook": "https://www.facebook.com/mia.la.1257",
+                        "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                        "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                        "instagram": "https://www.instagram.com/accounts/login/"
+                    }
+                },
+                "stock": {
+                    "quantity": 1,
+                    "status": "available",
+                    "country": "VN"
+                },
+                "discount": 0.2,
+                "price": "100000",
+                "currencySymbol": "₫",
+                "description": "Industrial",
+                "shortDescription": "Clothing",
+                "sku": "gSxDcK2b7w",
+                "name": "Generic Rubber Salad",
+                "slug": "Generic-Rubber-Salad-8ALnqe"
+            },
+            {
+                "_id": "61db9c35be203578eaea13e1",
+                "media": {
+                    "featuredImage": "https://salt.tikicdn.com/cache/400x400/ts/product/da/0c/18/0299d7752d97b2be9d3dadae6ff6286f.png.webp",
+                    "data": []
+                },
+                "category": {
+                    "_id": "61db9c35be203578eaea0dbf",
+                    "name": "Thực phẩm"
+                },
+                "brand": {
+                    "name": "Dio"
+                },
+                "vendor": {
+                    "_id": "61da6091c36fa077b584a31e",
+                    "profile": {
+                        "fullName": "Lamia Store",
+                        "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                        "gender": "male",
+                        "email": "mubaha.fashion@gmail.com"
+                    },
+                    "username": "Lamia",
+                    "phone": "0911111111",
+                    "role": "vendor",
+                    "password": "123456",
+                    "vendor": {
+                        "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                        "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                        "facebook": "https://www.facebook.com/mia.la.1257",
+                        "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                        "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                        "instagram": "https://www.instagram.com/accounts/login/"
+                    }
+                },
+                "stock": {
+                    "quantity": 1,
+                    "status": "available",
+                    "country": "VN"
+                },
+                "discount": 0,
+                "price": "100000",
+                "currencySymbol": "₫",
+                "description": "Shoes",
+                "shortDescription": "Toys",
+                "sku": "M-GrjNyM0b",
+                "name": "Rustic Fresh Sausages",
+                "slug": "Rustic-Fresh-Sausages-C3Btj6"
+            },
+            {
+                "_id": "61db9c35be203578eaea13e2",
+                "media": {
+                    "featuredImage": "https://salt.tikicdn.com/cache/400x400/media/catalog/producttmp/e9/c6/22/7f7151da225bf818e826c228ebd8854e.jpg.webp",
+                    "data": []
+                },
+                "category": {
+                    "_id": "61db9c35be203578eaea0dbf",
+                    "name": "Thực phẩm"
+                },
+                "brand": {
+                    "name": "Dio"
+                },
+                "vendor": {
+                    "_id": "61da6091c36fa077b584a31e",
+                    "profile": {
+                        "fullName": "Lamia Store",
+                        "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                        "gender": "male",
+                        "email": "mubaha.fashion@gmail.com"
+                    },
+                    "username": "Lamia",
+                    "phone": "0911111111",
+                    "role": "vendor",
+                    "password": "123456",
+                    "vendor": {
+                        "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                        "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                        "facebook": "https://www.facebook.com/mia.la.1257",
+                        "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                        "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                        "instagram": "https://www.instagram.com/accounts/login/"
+                    }
+                },
+                "stock": {
+                    "quantity": 1,
+                    "status": "available",
+                    "country": "VN"
+                },
+                "discount": 0,
+                "price": "100000",
+                "currencySymbol": "₫",
+                "description": "Books",
+                "shortDescription": "Clothing",
+                "sku": "94WRzUsKgT",
+                "name": "Ergonomic Concrete Bacon",
+                "slug": "Ergonomic-Concrete-Bacon-7AwRO6"
+            },
+            {
+                "_id": "61db9c35be203578eaea13e3",
+                "media": {
+                    "featuredImage": "https://salt.tikicdn.com/cache/400x400/ts/product/0e/04/3b/4df0ad98fcd91200623bcc2a5816d5e6.PNG.webp",
+                    "data": []
+                },
+                "category": {
+                    "_id": "61db9c35be203578eaea0dbf",
+                    "name": "Thực phẩm"
+                },
+                "brand": {
+                    "name": "Dio"
+                },
+                "vendor": {
+                    "_id": "61da6091c36fa077b584a31e",
+                    "profile": {
+                        "fullName": "Lamia Store",
+                        "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                        "gender": "male",
+                        "email": "mubaha.fashion@gmail.com"
+                    },
+                    "username": "Lamia",
+                    "phone": "0911111111",
+                    "role": "vendor",
+                    "password": "123456",
+                    "vendor": {
+                        "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                        "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                        "facebook": "https://www.facebook.com/mia.la.1257",
+                        "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                        "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                        "instagram": "https://www.instagram.com/accounts/login/"
+                    }
+                },
+                "stock": {
+                    "quantity": 1,
+                    "status": "available",
+                    "country": "VN"
+                },
+                "discount": 0,
+                "price": "100000",
+                "currencySymbol": "₫",
+                "description": "Shoes",
+                "shortDescription": "Toys",
+                "sku": "UVQldn4Cil",
+                "name": "Licensed Plastic Table",
+                "slug": "Licensed-Plastic-Table-KCEahK"
+            },
+            {
+                "_id": "61db9c35be203578eaea13e4",
+                "media": {
+                    "featuredImage": "https://salt.tikicdn.com/cache/400x400/ts/product/a9/ef/35/e5eea3640b28cc8c11ca3ba00933f6f7.png.webp",
+                    "data": []
+                },
+                "category": {
+                    "_id": "61db9c35be203578eaea0dbf",
+                    "name": "Thực phẩm"
+                },
+                "brand": {
+                    "name": "Dio"
+                },
+                "vendor": {
+                    "_id": "61da6091c36fa077b584a31e",
+                    "profile": {
+                        "fullName": "Lamia Store",
+                        "avatar": "https://mubaha.hn.ss.bfcplatform.vn/data/118230377_109738244185899_5156288428963243418_n.jpeg",
+                        "gender": "male",
+                        "email": "mubaha.fashion@gmail.com"
+                    },
+                    "username": "Lamia",
+                    "phone": "0911111111",
+                    "role": "vendor",
+                    "password": "123456",
+                    "vendor": {
+                        "cover": "https://mubaha.hn.ss.bfcplatform.vn/data/store.jpeg",
+                        "description": "Lamia thay lời muốn nói của các cô nàng bằng bản tuyên ngôn thời trang nữ quyền cá tính. Thấu hiểu được vai trò của người phụ nữ trong xã hội hiện đại.",
+                        "facebook": "https://www.facebook.com/mia.la.1257",
+                        "youtube": "https://www.youtube.com/channel/UCPXeoTnDKOGPk9rwBTEtj9A",
+                        "tiktok": "https://www.tiktok.com/tag/lamia?lang=vi-VN",
+                        "instagram": "https://www.instagram.com/accounts/login/"
+                    }
+                },
+                "stock": {
+                    "quantity": 1,
+                    "status": "available",
+                    "country": "VN"
+                },
+                "discount": 0,
+                "price": "100000",
+                "currencySymbol": "₫",
+                "description": "Automotive",
+                "shortDescription": "Movies",
+                "sku": "hDszXSPJo8",
+                "name": "Sleek Wooden Salad",
+                "slug": "Sleek-Wooden-Salad-xfuJBq"
+            }
+        ]
+    }
+}

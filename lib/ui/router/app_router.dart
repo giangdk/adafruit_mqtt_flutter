@@ -1,0 +1,44 @@
+class AppRoutes {
+  static const String splashScreen = "/";
+  static const String main = "/main";
+  static const String home = '/home';
+  static const String setup = "/setup";
+  static const String favorite = "/favorite";
+  static const String categories = "/categories";
+  static const String dealOfTheDay = "/deal_of_the_day_detail";
+  static const String cart = "/cart";
+  static const String profile = "/profile";
+  static const String editBoard = "/editBoard";
+  static const String detailBoard = "/detailBoardScreen";
+  static const String welcomeScreen = "/welcom_screen";
+  static const String signin = "/signin_screen";
+  static const String signup = "/signup_screen";
+  static const String forgotPass = "/forgot_pass_screen";
+  static const String resetPass = "/reset_pass_page";
+  static const String otp = "/otp_page";
+  static const String card = "/card_page";
+  static const String showImageScreen = "/ShowImageScreen";
+  static const String categoryListProductsScreen =
+      "/category_list_products_screen";
+  static const String fillProfile = "/fill_profile";
+  static const String statusOrder = "/status_order";
+  static const String orderDetail = "/order_detail";
+  static const String voucher = "/voucher";
+  static const String address = "/address";
+  static const String newAddress = "/new_address";
+  static const String paymentCart = "/payment_cart";
+  static const String productDetail = "/product_detail";
+  static const String orderSuccess = "/order_success";
+  static const String rule = "/rule";
+  static const String help = "/help";
+  static const String noti = "/noti";
+  static const String about = "/about";
+  static const String vendor = "/vendor";
+  static const String payment = "/payment";
+  static const String productsList = "/products_list";
+  static const String search = "/search";
+  static const String shipingStatus = "/shiping_status";
+  static const String review = "/review";
+  static const String signUp = "/sign_up";
+  static const String signUpScreen = "/sign_up_final_page";
+}
